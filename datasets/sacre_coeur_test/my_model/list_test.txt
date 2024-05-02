@@ -1,0 +1,3 @@
+query_frame.0002.color.jpg
+query_frame.0092.color.jpg
+query_frame.0013.color.jpg
